@@ -1,0 +1,6 @@
+{
+  "name": "Eth Price Forecast Bet",
+  "description": "An Ethereum decentralized prediction market application enabling price forecast bets resolved via Chainlink price oracles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
